@@ -1,0 +1,13 @@
+1,Who won the FIFA 2014 Football?,Spain,England,Germany,Brazil,3,Sports
+2,Which country hosted the FIFA 2018 Football?,India,USA,Russia,Australia,3,Sports
+3,Who is the defending champions for FIFA 2018?,Brazil,Italy,Russia,Germany,4,Sports
+4,Which of these best expresses the meaning of the given word-Lament?,Complain,Comment,Condone,Console,1,Verbal
+5,Which of these best expresses the meaning of the given word - Vent?,Opening,Stodgy,End,Past tense of go,1,Verbal
+6,Which of these best expresses the meaning of the given word - Timid?,Fast,Slow,Medium,Shy,4,Verbal
+7,There is a new DataType which can take values as natural nos. between 0 to 25(Included). Then how many min. bits are required to store this datatype?,4,5,1,3,2,Programming
+8,A 10-bit unsigned integer has the following range,0-1000,0-1024,1-1025,0-1023,4,Programming
+9,I have a problem to solve which takes input as no. N the problem has a property that given the solution for n-1. I can easily solve the problem for n. so which programming technique will I use to solve such a problem?,iteration,decision making,oops,recursion,4,Programming
+10,The cost price of 10 articles is equal to selling price of 9 articles. Find the profit percentage?,101/9%,100/9%,102/9%,103/9%,2,Analytical
+11,In how many ways can these 7 letters A;B;C;D;E;F;G; be arranged so that C & E are never together?,5040,6480,3600,1440,3,Analytical
+12,The ratio of the radii of 2 right circular cylinders is 6:7 and their height are in the ratio 5:9. The ratio of their respective curved surface areas is,14:15,17:19,23:29,10:21,4,Analytical
+13,Did Germany qualify for the FIFA Quarter Finals 2018?,Yes,No,I Dont Know,May Be,2,Sports
